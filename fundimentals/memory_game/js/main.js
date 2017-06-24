@@ -1,3 +1,4 @@
+//this is my JS script for school
 var cards = ["queen", "queen", "king", "king"];
 
 var cardsInPlay = [];
